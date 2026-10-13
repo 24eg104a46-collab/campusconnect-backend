@@ -1,0 +1,17 @@
+target/
+*.class
+
+# Log file
+*.log
+
+# Mobile Tools App
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
